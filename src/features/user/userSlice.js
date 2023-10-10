@@ -5,7 +5,7 @@ import {
   addUserToLocalStorage,
   getUserFromLocalStorage,
   removeUserFromLocalStorage,
-} from "../../utils/localstorage";
+} from "../../utils/localStorage";
 
 import {
   registerUserThunk,
